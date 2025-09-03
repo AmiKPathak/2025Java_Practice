@@ -23,6 +23,7 @@ public class Assgnment1 {
 		
 		}
 		
+	int i = 10;
 	
 	
 	}
